@@ -12,7 +12,7 @@ To run this Express.js server, ensure you have Node.js installed on your machine
    Clone this repository to your local machine using Git:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Keshav-1803/Searching.git
    ```
 
 2. **Navigate to the Project Directory:**
